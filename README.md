@@ -8,7 +8,7 @@ Detecting, tracking and counting vehicles travelling on one carriageway of a mot
 
 ![Vehicles detected inside the region of interest, annotated with ID and estimated speed](docs/demo.gif)
 
-> Academic project — Image Processing and Vision (*Processamento de Imagem e Visão*), BSc in Computer Science and Multimedia Engineering (LEIM), ISEL. 
+> Academic project - Image Processing and Vision (*Processamento de Imagem e Visão*), BSc in Computer Science and Multimedia Engineering (LEIM), ISEL. 
 
 ---
 
@@ -70,7 +70,7 @@ Full analysis in [`docs/P2A_52D_A51589_A51811.pdf`](docs/P2A_52D_A51589_A51811.p
 
 ## Authors
 
-Group project for Image Processing and Vision (T52D), ISEL — DEI, 2025/26. Supervised by Prof. João Pedro Costa and Prof. Pedro Mendes Jorge.
+Group project for Image Processing and Vision (T52D), ISEL - DEI, 2025/26. Supervised by Prof. João Pedro Costa and Prof. Pedro Mendes Jorge.
 
 - Ricardo Faria (51589)
 - Bruno Pereira (51811)
